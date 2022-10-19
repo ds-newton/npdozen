@@ -1,0 +1,10 @@
+Package: npdozen
+Type: Package
+Title: Multiply the number from 1 to 12
+Version: 0.1.0
+Author: Newton Mwalongo
+Maintainer: The package maintainer <yourself@somewhere.net>
+Description: Give the multiples of the number by multiplying it from 1 to 12
+License: What license is it under?
+Encoding: UTF-8
+RoxygenNote: 7.2.1
